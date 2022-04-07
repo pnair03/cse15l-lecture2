@@ -5,7 +5,7 @@
 
 Hello, **CSE 15L** *students*. You are all amazing! :)
 
-How are you all doing?
+How are you all doing today?
 
 [Link to CSE 15L Webpage](https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/home) 
 
